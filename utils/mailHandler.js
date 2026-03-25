@@ -5,8 +5,8 @@ const transporter = nodemailer.createTransport({
     port: 2525,
     secure: false,
     auth: {
-        user: "YOUR_MAILTRAP_USER",   // <-- Thay bằng user Mailtrap của bạn
-        pass: "YOUR_MAILTRAP_PASS",   // <-- Thay bằng pass Mailtrap của bạn
+        user: "be094d395f2ee9",   // <-- Thay bằng user Mailtrap của bạn
+        pass: "dc1154c174a6c9",   // <-- Thay bằng pass Mailtrap của bạn
     },
 });
 
